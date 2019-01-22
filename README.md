@@ -4,7 +4,15 @@ Reimplementation of the Decomposable Attention Model (DAM) for STS
 If you use this software for academic research please cite the described paper:
 
 ```
-TBA
+@inproceedings{artetxe2018conll,
+  author    = {Artetxe, Mikel  and  Labaka, Gorka  and Lopez-Gazpio, Inigo  and  Agirre, Eneko},
+  title     = {Uncovering divergent linguistic information in word embeddings with lessons for intrinsic and extrinsic evaluation},
+  booktitle = {Proceedings of the 22nd Conference on Computational Natural Language Learning (CoNLL 2018)},
+  month     = {October},
+  year      = {2018},
+  address   = {Brussels, Belgium},
+  publisher = {Association for Computational Linguistics}
+}
 ```
 
 # Requirements
